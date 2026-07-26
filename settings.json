@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "legacy-7.hexacraft.fun",
+    "port": 25604,
     "version": "1.20.1",
     "try-creative": false
   },
